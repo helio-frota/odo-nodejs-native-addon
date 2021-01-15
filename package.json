@@ -1,0 +1,10 @@
+{
+  "name": "odo-nodejs-native-addon",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node foo.js"
+  },
+  "dependencies": {
+    "node-rdkafka": "^2.10.1"
+  }
+}
